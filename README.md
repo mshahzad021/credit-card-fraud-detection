@@ -3,10 +3,11 @@
 This project uses transaction data to detect fraudulent credit card activity using SQL and machine learning.
 
 ## 📁 Project Structure
-- `data/`: Cleaned dataset for model training
-- `sql/`: SQL queries for data exploration & feature engineering
-- `notebook/`: Python code for training fraud detection model
-- `reports/`: Final project report (DOCX)
+- `credit_card_data.csv`: Raw data for exploration
+- `credit_card_model_data.csv/`: Cleaned dataset for model training
+- `fraud_analysis_queries.sql/`: SQL queries for data exploration & feature engineering
+- `credit_fraud_model.py/`: Python code for training fraud detection model
+- `Credit Card Fraud Detection Project/`: Final project report (PDF)
 
 ## 📊 Goal
 To build a predictive model that flags fraudulent credit card transactions based on merchant category, location, and user demographics.
