@@ -4,9 +4,9 @@ This project uses transaction data to detect fraudulent credit card activity usi
 
 ## 📁 Project Structure
 - `credit_card_data.csv`: Raw data for exploration
-- `credit_card_model_data.csv/`: Cleaned dataset for model training
-- `fraud_analysis_queries.sql/`: SQL queries for data exploration & feature engineering
-- `credit_fraud_model.py/`: Python code for training fraud detection model
+- `credit_card_model_data.csv`: Cleaned dataset for model training
+- `fraud_analysis_queries.sql`: SQL queries for data exploration & feature engineering
+- `credit_fraud_model.py`: Python code for training fraud detection model
 - `Credit Card Fraud Detection Project/`: Final project report (PDF)
 
 ## 📊 Goal
