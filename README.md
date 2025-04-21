@@ -25,7 +25,7 @@ To build a predictive model that flags fraudulent credit card transactions based
 
 ## 📑 Final Report
 Check the full project summary here:
-📄 [Credit_Card_Fraud_Report.docx](https://drive.google.com/file/d/1w39mTsmca3-V9dh4aj3S27L_Qq2ZWC3c/view?usp=drive_link)
+📄 [Credit_Card_Fraud_Report.docx](https://drive.google.com/file/d/1qtNBHq5SYRFOX-Rq576-pPJbZa3Q6F0l/view?usp=drive_link)
 
 ## 🚀 Tech Stack
 - PostgreSQL (via SQL)
