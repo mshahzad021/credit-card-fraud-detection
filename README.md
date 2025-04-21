@@ -8,6 +8,7 @@ This project uses transaction data to detect fraudulent credit card activity usi
 - `fraud_analysis_queries.sql`: SQL queries for data exploration & feature engineering
 - `credit_fraud_model.py`: Python code for training fraud detection model
 - `Credit Card Fraud Detection Project`: Final project report (PDF)
+- [Kaggle DataSet](https://www.kaggle.com/datasets/kartik2112/fraud-detection?resource=download) 
 
 ## 📊 Goal
 To build a predictive model that flags fraudulent credit card transactions based on merchant category, location, and user demographics.
